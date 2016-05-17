@@ -1,3 +1,9 @@
 [submodule "English"]
 	path = English
 	url = https://github.com/ykhe/English.git
+[submodule "Exercise"]
+	path = Exercise
+	url = https://github.com/ykhe/Exercise.git
+[submodule "Reading"]
+	path = Reading
+	url = https://github.com/ykhe/Reading.git
