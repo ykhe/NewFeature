@@ -7,3 +7,6 @@
 [submodule "Reading"]
 	path = Reading
 	url = https://github.com/ykhe/Reading.git
+[submodule "Five-Year-Plan"]
+	path = Five-Year-Plan
+	url = https://github.com/ykhe/Five-Year-Plan.git
